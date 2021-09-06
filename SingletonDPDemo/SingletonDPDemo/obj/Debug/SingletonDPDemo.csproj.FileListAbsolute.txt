@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\Design Patterns\SingletonDP-Repo\SingletonDPDemo\SingletonDPDemo\bin\Debug\SingletonDPDemo.exe.config
+D:\Corporate\Vinsys\JK Tech\Design Patterns\SingletonDP-Repo\SingletonDPDemo\SingletonDPDemo\bin\Debug\SingletonDPDemo.exe
+D:\Corporate\Vinsys\JK Tech\Design Patterns\SingletonDP-Repo\SingletonDPDemo\SingletonDPDemo\bin\Debug\SingletonDPDemo.pdb
+D:\Corporate\Vinsys\JK Tech\Design Patterns\SingletonDP-Repo\SingletonDPDemo\SingletonDPDemo\obj\Debug\SingletonDPDemo.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\Design Patterns\SingletonDP-Repo\SingletonDPDemo\SingletonDPDemo\obj\Debug\SingletonDPDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\Design Patterns\SingletonDP-Repo\SingletonDPDemo\SingletonDPDemo\obj\Debug\SingletonDPDemo.exe
+D:\Corporate\Vinsys\JK Tech\Design Patterns\SingletonDP-Repo\SingletonDPDemo\SingletonDPDemo\obj\Debug\SingletonDPDemo.pdb
